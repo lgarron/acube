@@ -1,6 +1,6 @@
 # ACube.js
 
-Converted from C++ using [Emscripten](README).
+Converted from C++ using [Emscripten](https://github.com/kripken/emscripten).
 
 GWT might work on the newer Java source, but:
 - GWT is harder to use
